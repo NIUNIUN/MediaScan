@@ -1,0 +1,2 @@
+include ':app', ':loginintercept'
+rootProject.name='MediaScan'
