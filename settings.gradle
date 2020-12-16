@@ -1,2 +1,2 @@
-include ':app', ':loginintercept'
+include ':app', ':loginintercept', ':layoutmanager', ':library'
 rootProject.name='MediaScan'
